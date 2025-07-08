@@ -3,4 +3,4 @@
 -- Development Speed: Slow
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/refs/heads/main/Source.lua"))() -- bypasses
-loadstring(game:HttpGet("https://pastefy.app/4z8oUvbH/raw", true))() -- Obfus
+loadstring(game:HttpGet("https://pastefy.app/k9pmsZPP/raw", true))()
